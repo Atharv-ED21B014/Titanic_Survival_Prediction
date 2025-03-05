@@ -1,4 +1,4 @@
-# TechConative_Task
+# Titanic Survival Prediction
 This project involves building a machine learning model to predict the survival of passengers on the Titanic. Using the classic Kaggle Titanic dataset, we explore data preprocessing, feature engineering, and model building to optimize predictive accuracy.
 
 ## Table of Contents
